@@ -1,0 +1,46 @@
+.run_list_news {
+}
+.run_list_news div img{
+	float:left;
+	width:150px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+}
+
+.readmore {
+	float:right;
+}
+.clearboth {
+	clear: both;
+	margin: 0px 0px 10px 0px;
+	padding: 0px;
+	border-bottom: 1px dashed #777;
+	border-top: 0px;
+	border-left: 0px;
+	border-right: 0px;
+	line-height: 0px;
+	height: 1px;
+	display: block;
+}
+.run-detail {
+	width:100%;
+	margin:4px;
+}
+.run-each-post, .run-navigation {
+
+	width:93%;
+	padding:4px 4px 8px 4px;;
+	
+}
+.run-entry-title {
+	font-weight: bold;
+}
+.run-list-page {
+	width:98%;
+	margin:4px;
+}
+.run_list_news h3 {
+	letter-spacing: 0.1em;
+	font-size: 14px;
+	font-weight: bold;
+}
